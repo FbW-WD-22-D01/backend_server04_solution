@@ -85,7 +85,4 @@ Lies die von deiner API zurückgegebenen Daten durch und zeige sie an;
 
 ## Bonus-Aufgaben
 
-Dein Programm sollte auch in der Lage sein;
-
-- eine 5-Tage-Vorhersage anzeigen
-- Zwischen **metrischen** und **imperialen** Messungen umschalten können
+Verbinde dein Programm mit einem Webserver!
