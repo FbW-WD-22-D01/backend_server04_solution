@@ -26,6 +26,11 @@ Es ist jetzt 15,25°C in Manchester
 Die aktuellen Wetterbedingungen sind: vereinzelte Wolken
 ```
 
+<br></br>
+***BONUS: Statt das Programm von Hand im Terminal auszuführen, könnt ihr es auch mit einem Express Webserver verbinden und abhängig von der GET-Route, das Wetter im Browser ausgeben!*** 
+<br></br>
+
+
 ## Aufgaben
 
 ### Aufgabe 1 - Eine API erhalten
