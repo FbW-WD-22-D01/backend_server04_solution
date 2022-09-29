@@ -9,8 +9,6 @@ You will be writing a CLI application which uses an external API to get weather 
 The user will provide a city name when they run the program. Your program must use that city name in its request - and print the results into the terminal.
 
 
-***BONUS: Statt das Programm von Hand im Terminal auszuführen, könnt ihr es auch mit einem Express Webserver verbinden und abhängig von der GET-Route, das Wetter im Browser ausgeben!*** 
-
 
 
 ### Example
@@ -30,6 +28,11 @@ It is now 15.25°C in Manchester
 
 The current weather conditions are: scattered clouds
 ```
+
+<br>
+***BONUS: Statt das Programm von Hand im Terminal auszuführen, könnt ihr es auch mit einem Express Webserver verbinden und abhängig von der GET-Route, das Wetter im Browser ausgeben!*** 
+<br>
+
 
 ## Tasks
 
