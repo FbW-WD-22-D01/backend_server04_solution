@@ -8,6 +8,8 @@ You will be writing a CLI application which uses an external API to get weather 
 
 The user will provide a city name when they run the program. Your program must use that city name in its request - and print the results into the terminal.
 
+*BONUS: Statt das Programm im Terminal auszuführen, könnt ihr es auch mit einem Express Webserver verbinden und abhängig von der GET-Route das Wetter im Browser ausgeben!* 
+
 ### Example
 
 ###### Command
