@@ -1,7 +1,7 @@
 // Fetch importieren
 import fetch from 'node-fetch'
 
-// Den API Key aus .env File importieren
+// Den API Key aus .env File importieren (die Datei müssst ihr für euch erstellen)
 import * as dotenv from 'dotenv'
 dotenv.config()
 const {API_KEY} = process.env
