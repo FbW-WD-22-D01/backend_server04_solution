@@ -1,4 +1,4 @@
-# Weather CLI 
+# Weather CLI - SOLUTION
 
 Get the latest weather report - from your terminal!
 
